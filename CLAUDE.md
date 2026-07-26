@@ -20,6 +20,7 @@ here.** Put it where it belongs:
 | Kind of work | Home |
 |---|---|
 | Athena / DK/DKL code, plans, design docs | `williamsronnie8/athena-src` |
+| Orchestration: job contracts, dispatch, calibration, ledger | `williamsronnie8/foreman` |
 | Cross-project state, direction, standards | `williamsronnie8/hub` |
 | Process notes, triage, SOPs | `williamsronnie8/project-reformer` |
 | The website itself | here |
